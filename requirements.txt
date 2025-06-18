@@ -1,0 +1,8 @@
+pipenv
+persiantools
+cryptocode==0.1
+black
+isort
+flake8
+autoflake
+pre_commit
